@@ -1,0 +1,16 @@
+{
+  "description": "For portfolio use",
+
+  "domain": "is-local.dev",
+  "subdomain": "tigerco",
+
+  "owner": {
+      "email": "gabrielnmontemayor@gmail.com"
+  },
+
+  "record": {
+      "CNAME": "gabrielmntmyr.github.io"
+  },
+
+  "proxied": false
+}
